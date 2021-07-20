@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+.heading{
+    font-size: 50px;
+    width: 100%;
+    background-color:rgb(32, 212, 218);
+    color: white;
+    font-family: 'Itim', cursive;
+    margin: 0;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.subHeading{
+    font-size: 30px;
+    background-color: rgb(214, 15, 114);
+    color: white;
+    width: 28%;
+    border-radius: 10px;
+    font-family: 'Itim', cursive;
+    margin: 20;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 690px;
+    line-height: 1.5;
+}
+.answerPara{
+    font-family: 'Itim', cursive;
+    background-color: white;
+    font-size: 27px;
+    width: 35%;
+    border-radius: 10px;
+    margin-left: 600px;
+}
